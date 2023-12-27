@@ -1,4 +1,4 @@
-package com.taserelec.myinventoryandroid.ui.theme
+package com.taserelec.myinventoryandroid
 //import android.widget.Button
 //import androidx.compose.material.Text
 //import androidx.constraintlayout.widget.ConstraintLayout
@@ -20,7 +20,6 @@ import androidx.compose.ui.res.painterResource
 import androidx.compose.ui.tooling.preview.Preview
 import androidx.compose.ui.unit.dp
 import androidx.constraintlayout.compose.ConstraintLayout
-import com.taserelec.myinventoryandroid.R
 
 @Preview(showBackground = true)
 @Composable
